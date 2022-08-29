@@ -8,6 +8,7 @@ What is Docker? Why use Docker? What is image? What is container?
 <h3> Section 2: Manipulating Containers with the Docker Client</h3>
   
   <p>
+  
     Example: Connecting to Redis 
 
     in the first terminal -> docker run redis
@@ -17,7 +18,8 @@ What is Docker? Why use Docker? What is image? What is container?
   
 <h3> Section 3: Building Custom Images through Docker Server </h3>
 
-<p>  
+<p> 
+  
     Make the image 
 
     docker build .
