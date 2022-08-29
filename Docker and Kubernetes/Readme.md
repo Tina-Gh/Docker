@@ -15,4 +15,4 @@ What is Ducker? Why use Ducker? What is image? What is container?
   in the second terminal -> ducker ps -> grab the redis image container ID -> ducker exec -it [the grabbed ID] redis-cli
   </p>
   
-<h3> Section 3: Building Cust </h3>
+<h3> Section 3: Building Custom Images through Ducker Server </h3>
