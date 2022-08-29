@@ -18,9 +18,9 @@ What is Docker? Why use Docker? What is image? What is container?
 <h3> Section 3: Building Custom Images through Docker Server </h3>
 
 <p>  
-  Make the image 
-  
-  docker build .
-  
-  Run the docker image command 
+    Make the image 
+
+    docker build .
+
+    Run the docker image command 
 </p>
