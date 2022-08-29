@@ -3,6 +3,8 @@
 
 <h3> Section 1: Dive into Docker!</h3>
 
+What is Ducker? Why use Ducker? What is image? What is container?
+
 <h3> Section 2: Manipulating Containers with the Ducker Client</h3>
   
   <p>
@@ -13,4 +15,4 @@
   in the second terminal -> ducker ps -> grab the redis image container ID -> ducker exec -it [the grabbed ID] redis-cli
   </p>
   
-<h3> Section 3: </h3>
+<h3> Section 3: Building Cust </h3>
