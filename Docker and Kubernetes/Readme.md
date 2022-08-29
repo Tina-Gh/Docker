@@ -24,5 +24,5 @@ What is Docker? Why use Docker? What is image? What is container?
 
     docker build .
 
-    Run the docker image command 
+    docker run [id/name of the image]
 </p>
