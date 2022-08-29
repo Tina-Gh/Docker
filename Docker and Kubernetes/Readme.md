@@ -3,16 +3,16 @@
 
 <h3> Section 1: Dive into Docker!</h3>
 
-What is Ducker? Why use Ducker? What is image? What is container?
+What is Docker? Why use Docker? What is image? What is container?
 
-<h3> Section 2: Manipulating Containers with the Ducker Client</h3>
+<h3> Section 2: Manipulating Containers with the Docker Client</h3>
   
   <p>
   Example: Connecting to Redis 
 
-  in the first terminal -> ducker run redis
+  in the first terminal -> docker run redis
 
-  in the second terminal -> ducker ps -> grab the redis image container ID -> ducker exec -it [the grabbed ID] redis-cli
+  in the second terminal -> docker ps -> grab the redis image container ID -> docker exec -it [the grabbed ID] redis-cli
   </p>
   
-<h3> Section 3: Building Custom Images through Ducker Server </h3>
+<h3> Section 3: Building Custom Images through Docker Server </h3>
