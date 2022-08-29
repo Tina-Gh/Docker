@@ -22,7 +22,7 @@ What is Docker? Why use Docker? What is image? What is container?
   
     Make the image 
 
-    docker build .
+    docker build . -> or: -> docker build -t tinagh/redis:latest .
 
     docker run [id/name of the image]
 </p>
