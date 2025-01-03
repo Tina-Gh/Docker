@@ -1,4 +1,7 @@
-### Build a simple containerized application:
+## Build a simple containerized application:
+
+## Dockerfile reference: https://docs.docker.com/reference/dockerfile/
+
 # Prereqs
 
 Make sure you have the course github repo cloned/downloaded to your local machine.
