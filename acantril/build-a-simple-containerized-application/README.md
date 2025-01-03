@@ -1,4 +1,4 @@
-
+### Build a simple containerized application:
 # Prereqs
 
 Make sure you have the course github repo cloned/downloaded to your local machine.
