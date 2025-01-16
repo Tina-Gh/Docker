@@ -9,7 +9,7 @@ https://github.com/matt9ucci/DockerCompletion
 
 <br>
 
-# Ol'Windows stuff :D
+# Ol' Windows stuff :D
 
 I'm using Docker Toolbox, and http://localhost isn't working. What's wrong?
 Docker Toolbox uses a default IP of http://192.168.99.100 and doesn't support the localhost feature of Docker for Windows/Mac.

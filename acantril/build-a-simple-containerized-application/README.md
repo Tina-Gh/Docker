@@ -1,3 +1,6 @@
+## Build a simple containerized application:
+
+## Dockerfile reference: https://docs.docker.com/reference/dockerfile/
 
 # Prereqs
 
