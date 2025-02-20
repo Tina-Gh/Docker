@@ -7,7 +7,10 @@ https://github.com/Tina-Gh/udemy-docker-mastery
 Docker Completion:
 https://github.com/matt9ucci/DockerCompletion
 
-<br>
+<be>
+
+# In Bash - cause obviously :D
+
 
 # Ol' Windows stuff :D
 
